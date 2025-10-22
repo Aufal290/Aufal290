@@ -1,4 +1,7 @@
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/Aufal290/Aufal290/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **Aufal290/Aufal290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
