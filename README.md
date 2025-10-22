@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Aufal290/Aufal290/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aufal290&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" 
-       height="150" alt="GitHub stats" />
-       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aufal290&layout=compact&langs_count=5&theme=dracula&locale=en" 
-       height="150" alt="Top languages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalnugrahap/iqbalnugrahap/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqbalnugrahap/iqbalnugrahap/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iqbalnugrahap/iqbalnugrahap/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
